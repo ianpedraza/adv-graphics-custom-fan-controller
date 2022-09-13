@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DialView">
+        <attr name="lowerSpeedColor" format="color" />
+        <attr name="mediumSpeedColor" format="color" />
+        <attr name="maxSpeedColor" format="color" />
+    </declare-styleable>
+</resources>
